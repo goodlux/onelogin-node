@@ -1,0 +1,11 @@
+{
+  "name": "onelogin-node",
+  "description": "testing onelogin with node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x", 
+    "passport": "0.1.15",
+    "passport-saml": "0.0.4"
+  }
+}
